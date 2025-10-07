@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
