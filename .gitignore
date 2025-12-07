@@ -1,0 +1,15 @@
+# Ignorar a pasta .vs (Visual Studio)
+.vs/
+
+# Ignorar outros arquivos e pastas temporários do Visual Studio
+.vs2019/
+.vs2017/
+.idea/
+
+# Ignorar bin e obj (arquivos de build do .NET)
+bin/
+obj/
+
+# Ignorar outros arquivos temporários do sistema
+Thumbs.db
+.DS_Store
