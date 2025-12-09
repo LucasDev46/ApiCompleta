@@ -20,7 +20,7 @@ Este projeto visa fornecer uma base sólida para a construção de APIs interope
 - **📐 Arquitetura Modular**: Separação clara entre camadas de negócio, dados e API para maior manutenibilidade.
 - **✔️ Validação de Dados**: Garante integridade dos dados com validações completas, incluindo verificações de documentos nacionais.
 - **🔧 Injeção de Dependência & Identity**: Fornece autenticação de usuário e registro flexível de serviços.
-- **🔒 JWT: Implementação de segurança com JWT, utilizando Claims e Roles.
+- **🔒 JWT**: Implementação de segurança com JWT, utilizando Claims e Roles.
 - **💾 Acesso Eficiente a Dados**: Utiliza Entity Framework Core para interações de banco escaláveis e fáceis de manter.
 
 ---
