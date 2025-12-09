@@ -1,1 +1,32 @@
-API voltada para por em práticas conceitos REST e segurança. Ainda está em desenvolvimento (WIP)
+# APICOMPLETA (WiP)
+
+**Capacitando uma comunicação de API perfeita, segura e escalável**
+
+![badge1](https://img.shields.io/badge/.net%20commit-hoje-blue) ![badge2](https://img.shields.io/badge/100.0%-C%23-blue) ![badge3](https://img.shields.io/badge/languages-1-blue)
+
+**Construído com as seguintes ferramentas e tecnologias:**
+
+![badge4](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![badge5](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
+![badge6](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white)
+
+---
+## Visão Geral
+
+ApiCompleta é uma poderosa ferramenta para desenvolvedores projetada para facilitar a criação de APIs RESTful seguras e escaláveis com .NET 8.0. Ela enfatiza arquitetura modular, validação de dados e medidas robustas de segurança para agilizar o desenvolvimento backend.
+
+### Por que usar a ApiCompleta?
+
+Este projeto visa fornecer uma base sólida para a construção de APIs interoperáveis e protegidas. Os principais recursos incluem:
+
+- **🔒 Segurança e Design RESTful**: Implementa princípios REST com medidas de segurança para comunicação cliente-servidor segura.
+- **📐 Arquitetura Modular**: Separação clara entre camadas de negócio, dados e API para maior manutenibilidade.
+- **✔️ Validação de Dados**: Garante integridade dos dados com validações completas, incluindo verificações de documentos nacionais.
+- **🔧 Injeção de Dependência & Identidade**: Fornece autenticação de usuário e registro flexível de serviços.
+- **💾 Acesso Eficiente a Dados**: Utiliza Entity Framework Core para interações de banco escaláveis e fáceis de manter.
+
+---
+
+
+```bash
+git clone https://github.com/LucasDev64/ApiCompleta
