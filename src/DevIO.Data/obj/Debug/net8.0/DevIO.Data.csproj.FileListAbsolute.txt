@@ -13,3 +13,4 @@ C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Data\obj\Debug\net8.0\DevIO.D
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Data\obj\Debug\net8.0\refint\DevIO.Data.dll
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.pdb
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Data\obj\Debug\net8.0\ref\DevIO.Data.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.sourcelink.json

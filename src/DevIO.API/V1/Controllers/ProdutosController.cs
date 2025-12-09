@@ -1,13 +1,15 @@
 ﻿using AutoMapper;
+using DevIO.API.Controllers;
 using DevIO.API.ViewModels;
 using DevIO.Business.Intefaces;
 using DevIO.Business.Models;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.API.Controllers
+namespace DevIO.API.V1.Controllers
 {
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
     public class ProdutosController : MainController
     {
@@ -17,7 +19,8 @@ namespace DevIO.API.Controllers
         public ProdutosController(INotificador notificador, 
                                   IProdutoRepository produtoRepository, 
                                   IProdutoService produtoService, 
-                                  IMapper mapper) : base(notificador)
+                                  IMapper mapper,
+                                  IUser user) : base(notificador, user)
         {
             _produtoRepository = produtoRepository;
             _produtoService = produtoService;
@@ -25,8 +28,10 @@ namespace DevIO.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
         {
+    
             return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterProdutosFornecedores());
             
         }

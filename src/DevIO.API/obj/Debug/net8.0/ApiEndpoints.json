@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "DevIO.API.Controllers.AuthController",
+    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
     "Method": "Login",
-    "RelativePath": "api/entrar",
+    "RelativePath": "api/v1/entrar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -16,9 +16,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "ObterTodos",
-    "RelativePath": "api/Fornecedores",
+    "RelativePath": "api/v1/Fornecedores",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "Adicionar",
-    "RelativePath": "api/Fornecedores",
+    "RelativePath": "api/v1/Fornecedores",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -62,9 +62,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "ObterPorId",
-    "RelativePath": "api/Fornecedores/{id}",
+    "RelativePath": "api/v1/Fornecedores/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -88,9 +88,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "Atualizar",
-    "RelativePath": "api/Fornecedores/{id}",
+    "RelativePath": "api/v1/Fornecedores/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -119,9 +119,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "Excluir",
-    "RelativePath": "api/Fornecedores/{id}",
+    "RelativePath": "api/v1/Fornecedores/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -145,9 +145,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "AtualizarEndereco",
-    "RelativePath": "api/Fornecedores/atualizar-endereco/{id}",
+    "RelativePath": "api/v1/Fornecedores/atualizar-endereco/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -176,9 +176,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.FornecedoresController",
+    "ContainingType": "DevIO.API.V1.Controllers.FornecedoresController",
     "Method": "ObterEnderecoPorId",
-    "RelativePath": "api/Fornecedores/obter-endereco/{id}",
+    "RelativePath": "api/v1/Fornecedores/obter-endereco/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -202,9 +202,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.AuthController",
+    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
     "Method": "Registrar",
-    "RelativePath": "api/nova-conta",
+    "RelativePath": "api/v1/nova-conta",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -218,9 +218,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "ObterTodos",
-    "RelativePath": "api/Produtos",
+    "RelativePath": "api/v1/Produtos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -238,9 +238,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "Adicionar",
-    "RelativePath": "api/Produtos",
+    "RelativePath": "api/v1/Produtos",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -264,9 +264,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "ObterPorId",
-    "RelativePath": "api/Produtos/{id}",
+    "RelativePath": "api/v1/Produtos/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -290,9 +290,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "Excluir",
-    "RelativePath": "api/Produtos/{id}",
+    "RelativePath": "api/v1/Produtos/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -316,9 +316,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "Atualizar",
-    "RelativePath": "api/Produtos/{id}",
+    "RelativePath": "api/v1/Produtos/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -337,9 +337,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "AdicionarAlternativo",
-    "RelativePath": "api/Produtos/Adicionar",
+    "RelativePath": "api/v1/Produtos/Adicionar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -408,9 +408,9 @@
     ]
   },
   {
-    "ContainingType": "DevIO.API.Controllers.ProdutosController",
+    "ContainingType": "DevIO.API.V1.Controllers.ProdutosController",
     "Method": "AdicionarImagem",
-    "RelativePath": "api/Produtos/Imagem",
+    "RelativePath": "api/v1/Produtos/Imagem",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -432,5 +432,37 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v2/entrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUser",
+        "Type": "DevIO.API.ViewModels.LoginUserViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
+    "Method": "Registrar",
+    "RelativePath": "api/v2/nova-conta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUser",
+        "Type": "DevIO.API.ViewModels.RegisterUserViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

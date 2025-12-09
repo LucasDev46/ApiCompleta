@@ -25,11 +25,14 @@ namespace DevIO.Business.Services
 
         protected void Notificar(string mensagem)
         {
+            //propagar esse erro ate a camada de apresentação
             _notificador.Handle(new Notificacao(mensagem));
         }
 
         protected bool ExecutarValidacao<TV, TE>(TV validacao, TE entidade) where TV : AbstractValidator<TE> where TE : Entity
         {
+            // TV == Validador de entidade TE == Entidade
+
             var validator = validacao.Validate(entidade);
 
             if(validator.IsValid) return true;

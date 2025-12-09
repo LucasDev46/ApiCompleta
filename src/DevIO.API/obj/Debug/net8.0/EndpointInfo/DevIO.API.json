@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/nova-conta": {
+    "/api/v1/nova-conta": {
       "post": {
         "tags": [
           "Auth"
@@ -36,7 +36,7 @@
         }
       }
     },
-    "/api/entrar": {
+    "/api/v1/entrar": {
       "post": {
         "tags": [
           "Auth"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/api/Fornecedores": {
+    "/api/v1/Fornecedores": {
       "get": {
         "tags": [
           "Fornecedores"
@@ -151,7 +151,7 @@
         }
       }
     },
-    "/api/Fornecedores/{id}": {
+    "/api/v1/Fornecedores/{id}": {
       "get": {
         "tags": [
           "Fornecedores"
@@ -286,7 +286,7 @@
         }
       }
     },
-    "/api/Fornecedores/obter-endereco/{id}": {
+    "/api/v1/Fornecedores/obter-endereco/{id}": {
       "get": {
         "tags": [
           "Fornecedores"
@@ -326,7 +326,7 @@
         }
       }
     },
-    "/api/Fornecedores/atualizar-endereco/{id}": {
+    "/api/v1/Fornecedores/atualizar-endereco/{id}": {
       "put": {
         "tags": [
           "Fornecedores"
@@ -385,7 +385,7 @@
         }
       }
     },
-    "/api/Produtos": {
+    "/api/v1/Produtos": {
       "get": {
         "tags": [
           "Produtos"
@@ -469,7 +469,7 @@
         }
       }
     },
-    "/api/Produtos/{id}": {
+    "/api/v1/Produtos/{id}": {
       "get": {
         "tags": [
           "Produtos"
@@ -587,7 +587,7 @@
         }
       }
     },
-    "/api/Produtos/Adicionar": {
+    "/api/v1/Produtos/Adicionar": {
       "post": {
         "tags": [
           "Produtos"
@@ -713,7 +713,7 @@
         }
       }
     },
-    "/api/Produtos/Imagem": {
+    "/api/v1/Produtos/Imagem": {
       "post": {
         "tags": [
           "Produtos"

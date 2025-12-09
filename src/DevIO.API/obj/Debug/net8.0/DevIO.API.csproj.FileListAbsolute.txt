@@ -147,3 +147,8 @@ C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\obj\Debug\net8.0\ref\DevI
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\DevIO.API.staticwebassets.runtime.json
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\obj\Debug\net8.0\DevIO.API.sourcelink.json
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\lucas\Desktop\curso\APICompleta\src\DevIO.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
