@@ -2,13 +2,10 @@
 
 **Capacitando uma comunicação de API perfeita, segura e escalável**
 
-![badge1](https://img.shields.io/badge/.net%20commit-hoje-blue) ![badge2](https://img.shields.io/badge/100.0%-C%23-blue) ![badge3](https://img.shields.io/badge/languages-1-blue)
-
 **Construído com as seguintes ferramentas e tecnologias:**
 
 ![badge4](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![badge5](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
-![badge6](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white)
+
 
 ---
 ## Visão Geral
