@@ -432,37 +432,5 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/v2/entrar",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "loginUser",
-        "Type": "DevIO.API.ViewModels.LoginUserViewModel",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DevIO.API.V1.Controllers.AuthController",
-    "Method": "Registrar",
-    "RelativePath": "api/v2/nova-conta",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "registerUser",
-        "Type": "DevIO.API.ViewModels.RegisterUserViewModel",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   }
 ]
